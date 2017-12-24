@@ -1,0 +1,35 @@
+{
+  "name": "he-youtrack-lib",
+  "version": "0.1.0",
+  "description": "Node library for accessing the Youtrack REST API",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "request": "^2.83.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test/**.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ibrahimsaqr/he-youtrack-lib.git"
+  },
+  "keywords": [
+    "youtrack",
+    "jetbrains",
+    "issue",
+    "sdk"
+  ],
+  "author": "Ibrahim Sakr <ebrahimes@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ibrahimsaqr/he-youtrack-lib/issues"
+  },
+  "homepage": "https://github.com/ibrahimsaqr/he-youtrack-lib"
+}
