@@ -2,5 +2,5 @@
  * he-youtrack-lib
  * @licience MIT
  */
-module.exports = require("./lib");
+module.exports = require("./lib/YouTrack");
 
