@@ -51,42 +51,42 @@ youtrack.user.findByLoginName().then((profile) => {
 
 - General APIs
     - users
-    - issues
-    - projects
+    - issues (in progress)
+    - projects (in progress)
 - Administration APIs
-    - project
-    - users
-    - groups
-    - role
-    - issue link type
-    - custom fields
-    - statistics
-    - permissions
+    - project (in progress)
+    - users (in progress)
+    - groups (in progress)
+    - role (in progress)
+    - issue link type (in progress)
+    - custom fields (in progress)
+    - statistics (in progress)
+    - permissions (in progress)
 - Import APIs
-    - users
-    - issues
-    - links
-    - attachment to an issue
+    - users (in progress)
+    - issues (in progress)
+    - links (in progress)
+    - attachment to an issue (in progress)
 - Export APIs
-    - all issues from a project
-    - links
+    - all issues from a project (in progress)
+    - links (in progress)
 - Time Tracking
     - User APIs
-        - delete work team
-        - edit work team
-        - create work team
-        - available work items of issue
-        - import work items
+        - delete work team (in progress)
+        - edit work team (in progress)
+        - create work team (in progress)
+        - available work items of issue (in progress)
+        - import work items (in progress)
     - Settings APIs
-        - GET system-wide time tracking settings
-        - PUT system-wide time tracking settings
-        - GET time tracking settings for a project
-        - PUT time tracking settings for a project
-        - GET work types for a project
+        - GET system-wide time tracking settings (in progress)
+        - PUT system-wide time tracking settings (in progress)
+        - GET time tracking settings for a project (in progress)
+        - PUT time tracking settings for a project (in progress)
+        - GET work types for a project (in progress)
 - Agile Board
-    - list all boards
-    - board configuration by id
-    - sprint by id
-    - new agile configuration
-    - update confuguration
+    - list all boards (in progress)
+    - board configuration by id (in progress)
+    - sprint by id (in progress)
+    - new agile configuration (in progress)
+    - update confuguration (in progress)
     
