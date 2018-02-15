@@ -1,6 +1,7 @@
 {
   "env": {
-    "es6": true
+    "es6": true,
+    "jest": true
   },
   "plugins": [],
   "rules": {
@@ -8,7 +9,9 @@
     "indent": [
       2,
       4,
-      { "SwitchCase": 1 }
+      {
+        "SwitchCase": 1
+      }
     ],
     "no-plusplus": [
       2,
@@ -41,8 +44,8 @@
     "no-restricted-syntax": "off",
     "class-methods-use-this": "off",
     "default-case": "off",
-    "global-require":"off",
-    "import/no-dynamic-require":"off"
+    "global-require": "off",
+    "import/no-dynamic-require": "off"
   },
   "extends": "airbnb/base"
 }
