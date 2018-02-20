@@ -7,8 +7,9 @@
     "test": "test"
   },
   "dependencies": {
-    "request": "^2.83.0",
-    "babel-eslint": "8.0.3"
+    "babel-eslint": "8.0.3",
+    "eslint-plugin-import": "^2.8.0",
+    "request": "^2.83.0"
   },
   "devDependencies": {
     "eslint": "^4.14.0",
